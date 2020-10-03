@@ -37,6 +37,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - 18-VB6 (done)
 - 19-LUA (done)
 - 20-CLOJURE
+- 21-Perl
 
 Note : if you have a programming language recommendation, you can add it in the next number.
 
